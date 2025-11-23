@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Plugin.UplayServer.Quazal/Plugin.UplayServer.Quazal.csproj" />
+  <Project Path="QuazalConsole/QuazalConsole.csproj" Id="7725833d-cb8c-4378-9018-a190b6811716" />
+</Solution>
