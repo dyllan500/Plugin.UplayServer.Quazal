@@ -7,6 +7,6 @@ public enum PacketFlags : byte
     Ack = 1,
     Reliable = 2,
     NeedAck = 4,
-    HasSize = 8,
-    Unknown = 16,
+    Unknown = 8,
+    HasSize = 16,
 }

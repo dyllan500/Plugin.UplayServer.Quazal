@@ -13,4 +13,8 @@
 	  </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <Using Include="Serilog" />
+  </ItemGroup>
+
 </Project>
